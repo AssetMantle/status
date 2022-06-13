@@ -1,31 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AssetMantle # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: AssetMantle Website
+    url: https://assetmantle.one
+  - name: AssetMantle Wallet
+    url: https://wallet.assetmantle.one
+  - name: AssetMantle Explorer
+    url: https://explorer.assetmantle.one
+  - name: AssetMantle Airdrop
+    url: https://airdrop.assetmantle.one
+  - name: AssetMantle Marketplace
+    url: https://marketplace.assetmantle.one
+  - name: AssetMantle Blog
+    url: https://blog.assetmantle.one
+  - name: AssetMantle Documentation
+    url: https://docs.assetmantle.one
+  - name: AssetMantle RPC
+    url: https://rpc.assetmantle.one/net_info
+  - name: AssetMantle REST
+    url: https://rest.assetmantle.one/node_info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.assetmantle.one
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/97742402
+  favicon: https://avatars.githubusercontent.com/u/97742402
+  name: AssetMantle
+  introTitle: "AssetMantle Status Page"
+  introMessage: "**AssetMantle** is a multi-tenant NFT marketplace framework that enables creators and collectors to securely mint, own, and trade digital assets on its fast-finality blockchain. This is a status page which shows **real-time** operational systems data."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: AssetMantle
+      href: https://assetmantle.one
+
+commitMessages:
+  commitAuthorName: "Status Bot"
+  commitAuthorEmail: "sarvagya@assetmantle.one"
+
+user-agent: AssetMantle
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
