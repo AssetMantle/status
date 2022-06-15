@@ -4,19 +4,19 @@
     "url": "https://assetmantle.one",
     "icon": "https://favicons.githubusercontent.com/assetmantle.one",
     "slug": "asset-mantle-website",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 177,
-    "timeDay": 161,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 162,
+    "timeDay": 139,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-06-15": 1
+      "2022-06-15": 11
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://airdrop.assetmantle.one",
     "icon": "https://favicons.githubusercontent.com/airdrop.assetmantle.one",
     "slug": "asset-mantle-airdrop",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 250,
-    "timeDay": 558,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 207,
+    "timeDay": 318,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 10
     }
   },
   {
