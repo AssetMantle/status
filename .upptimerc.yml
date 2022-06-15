@@ -5,22 +5,40 @@ repo: status # The name of this repository
 sites:
   - name: AssetMantle Website
     url: https://assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle Wallet
     url: https://wallet.assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle Explorer
     url: https://explorer.assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle Airdrop
     url: https://airdrop.assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle Marketplace
     url: https://marketplace.assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle Blog
     url: https://blog.assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle Documentation
     url: https://docs.assetmantle.one
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle RPC
     url: https://rpc.assetmantle.one/net_info
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: AssetMantle REST
     url: https://rest.assetmantle.one/node_info
+    maxResponseTime: 5000
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -45,6 +63,15 @@ commitMessages:
   commitAuthorEmail: "sarvagya@assetmantle.one"
 
 user-agent: AssetMantle
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/2 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
