@@ -1,7 +1,7 @@
 url: https://rpc.assetmantle.one/net_info
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-16T15:43:33.410Z
+status: up
+code: 200
+responseTime: 610
+lastUpdated: 2022-06-16T15:50:36.509Z
 startTime: Mon Jun 13 2022 17:46:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
