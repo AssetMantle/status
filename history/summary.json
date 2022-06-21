@@ -80,36 +80,39 @@
     "url": "https://marketplace.assetmantle.one",
     "icon": "https://favicons.githubusercontent.com/marketplace.assetmantle.one",
     "slug": "asset-mantle-marketplace",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 1099,
-    "timeWeek": 593,
-    "timeMonth": 545,
-    "timeYear": 545,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1257,
+    "timeDay": 5091,
+    "timeWeek": 1442,
+    "timeMonth": 1257,
+    "timeYear": 1257,
+    "dailyMinutesDown": {
+      "2022-06-21": 2
+    }
   },
   {
     "name": "AssetMantle Blog",
     "url": "https://blog.assetmantle.one",
     "icon": "https://favicons.githubusercontent.com/blog.assetmantle.one",
     "slug": "asset-mantle-blog",
-    "status": "up",
-    "uptime": "73.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.26%",
-    "uptimeMonth": "73.27%",
-    "uptimeYear": "73.27%",
+    "status": "down",
+    "uptime": "74.21%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "74.21%",
+    "uptimeYear": "74.21%",
     "time": 1144,
     "timeDay": 1184,
     "timeWeek": 1209,
     "timeMonth": 1144,
     "timeYear": 1144,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-06-19": 1022,
       "2022-06-18": 1440,
       "2022-06-17": 334
@@ -138,9 +141,9 @@
     "url": "https://rpc.assetmantle.one/net_info",
     "icon": "https://favicons.githubusercontent.com/rpc.assetmantle.one",
     "slug": "asset-mantle-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -150,6 +153,7 @@
     "timeMonth": 439,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-06-16": 7,
       "2022-06-15": 10
     }
@@ -159,9 +163,9 @@
     "url": "https://rest.assetmantle.one/node_info",
     "icon": "https://favicons.githubusercontent.com/rest.assetmantle.one",
     "slug": "asset-mantle-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,6 +174,8 @@
     "timeWeek": 381,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
